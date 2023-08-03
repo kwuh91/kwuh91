@@ -1,4 +1,5 @@
-[![](https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif)]
+<img align="center" alt="donut" width="40px" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
+![]()
 # 🌊 Kwuh91 
 
 <p align="center">
