@@ -23,6 +23,6 @@
 
 ### 📊 Github Stats and Activity
 
+<p align="center">
 <img title="🔥" alt="kwuh91's streak" src="https://streak-stats.demolab.com?user=kwuh91&theme=dark"/>
-
-![Kwuh91's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwuh91&show_icons=true&theme=dark)
+</p>
