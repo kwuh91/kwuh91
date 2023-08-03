@@ -1,5 +1,5 @@
 <p align="center">
-<img title="🔥" width="500px" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
+<img title="🔥" width="1000px" height="350" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
 </p>
 
 # 🌊 Kwuh91 
