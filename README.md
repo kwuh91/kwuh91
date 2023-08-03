@@ -1,3 +1,4 @@
+[![](https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif)]
 # 🌊 Kwuh91 
 
 <p align="center">
