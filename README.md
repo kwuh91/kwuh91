@@ -1,5 +1,7 @@
-<img align="center" alt="donut" width="40px" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
-![]()
+<p align="center">
+<img title="🔥" width="100px" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
+</p>
+
 # 🌊 Kwuh91 
 
 <p align="center">
