@@ -31,7 +31,7 @@
 
 #
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=solarized_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=solarized_dark">
 </div>
@@ -49,5 +49,5 @@
 ### 📊 Github Stats and Activity
 
 <p align="center">
-<img title="🔥" alt="kwuh91's streak" src="https://streak-stats.demolab.com?user=kwuh91&theme=dark"/>
+	<img title="🔥" alt="kwuh91's streak" src="https://streak-stats.demolab.com?user=kwuh91&theme=dark"/>
 </p>
