@@ -31,10 +31,7 @@
 
 #
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=solarized_dark)
-
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=solarized_dark)
 
 #
@@ -43,7 +40,9 @@
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Kw_uh/)
 [![LeetCode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ISneog/)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ISneog&theme=dark)](https://github.com/ISneog/leetcode-stats)
+<p align="center">
+![LeetCode Stats](https://leetcard.jacoblin.cool/ISneog?theme=dark&font=Noto%20Sans)
+</p>
 
 #
 
