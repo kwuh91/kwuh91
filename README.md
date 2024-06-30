@@ -32,8 +32,8 @@
 #
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=solarized_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=solarized_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=github_dark">
 </div>
 
 #
@@ -45,10 +45,11 @@
 <div align="center">
    <img src="https://leetcard.jacoblin.cool/ISneog?theme=dark&font=Noto%20Sans" alt="LeetCode Stats">
 </div>
+
 #
 
 ### 📊 Github Stats and Activity
 
 <p align="center">
-	<img title="🔥" alt="kwuh91's streak" src="https://streak-stats.demolab.com?user=kwuh91&theme=dark"/>
+   <img title="🔥" alt="kwuh91's streak" src="https://streak-stats.demolab.com?user=kwuh91&theme=dark"/>
 </p>
