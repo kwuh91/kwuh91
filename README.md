@@ -20,6 +20,7 @@
 
 <img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="ThreeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" />
 <img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
           
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -29,8 +30,6 @@
 <img align="left" alt="Blender" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <br />
 
-#
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=github_dark">
@@ -38,7 +37,7 @@
 
 #
 
-### Follow me
+###  Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Kw_uh/)
 [![LeetCode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ISneog/)
 
