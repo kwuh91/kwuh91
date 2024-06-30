@@ -31,9 +31,9 @@
 
 #
 
-<div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=solarized_dark)
+<div style="text-align: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=solarized_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=solarized_dark">
 </div>
 
 #
@@ -42,7 +42,7 @@
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Kw_uh/)
 [![LeetCode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ISneog/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ISneog?theme=dark&font=Noto%20Sans)
+<img src="https://leetcard.jacoblin.cool/ISneog?theme=dark&font=Noto%20Sans" alt="LeetCode Stats" align="center">
 
 #
 
