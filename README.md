@@ -4,7 +4,7 @@
    <img title="🔥" width="667px" height="233" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
 </div>
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$\lim_{x\to\infty} f(x)$$
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com/?lines=BMSTU%20CS%20student;4%2B%20years%20of%20coding%20experience;Always%20eager%20to%20learn&font=Fira%20Code&center=true&width=440&height=45&color=19979FFF&vCenter=true&pause=1000&size=22" />
