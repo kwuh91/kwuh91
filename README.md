@@ -1,4 +1,4 @@
-# 🌊 Kwuh91 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> Kwuh91 
 
 <div align="center">
    <img title="🔥" width="667px" height="233" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Languages and Tools
 
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -47,7 +47,7 @@
 
 #
 
-### 📊 Github Stats and Activity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Github Stats and Activity
 
 <p align="center">
    <img title="🔥" alt="kwuh91's streak" src="https://streak-stats.demolab.com?user=kwuh91&theme=dark"/>
