@@ -38,7 +38,7 @@
 
 <div align="left">
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" />
-   <big>Follow me</big>
+   <span style="font-size: 18px; line-height: 18px;">Follow me</span>
 </div>
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Kw_uh/)
