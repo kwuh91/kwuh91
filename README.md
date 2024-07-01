@@ -27,6 +27,8 @@
 <img align="left" alt="Obsidian" width="40px" style="padding-right:10px;" src="https://obsidian.md/favicon.ico" />
 <img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Blender" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" alt="LaTeX" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+          
 <br/>
 
 # 
