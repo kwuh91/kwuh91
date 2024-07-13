@@ -4,7 +4,7 @@
    <img title="🔥" width="667px" height="233" src="https://raw.githubusercontent.com/kwuh91/kwuh91/master/donut.gif" />
 </div>
 
-# $$\lim_{☕\to\infty} \left[ \textnormal{ life } \right] $$
+<!--# $$\lim_{☕\to\infty} \left[ \textnormal{ life } \right] $$-->
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com/?lines=BMSTU%20CS%20student;4%2B%20years%20of%20coding%20experience;Always%20eager%20to%20learn&font=Fira%20Code&center=true&width=440&height=45&color=19979FFF&vCenter=true&pause=1000&size=22" /> 
