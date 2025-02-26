@@ -41,11 +41,3 @@
 <div align="center">
    <img src="https://leetcard.jacoblin.cool/ISneog?theme=dark&font=Noto%20Sans" alt="LeetCode Stats">
 </div>
-
-#
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Github Stats and Activity
-
-<p align="center">
-   <img title="🔥" alt="kwuh91's streak" src="https://streak-stats.demolab.com?user=kwuh91&theme=dark"/>
-</p>
