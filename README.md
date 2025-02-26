@@ -33,13 +33,6 @@
 
 #
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwuh91&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwuh91&theme=github_dark">
-</div>
-
-#
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Follow me
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Kw_uh/)
