@@ -17,8 +17,9 @@
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Kw_uh/)
 [![LeetCode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ISneog/)
--->
+
 
 <div align="center">
    <img src="https://leetcard.jacoblin.cool/ISneog?theme=dark&font=Noto%20Sans" alt="LeetCode Stats">
 </div>
+-->
